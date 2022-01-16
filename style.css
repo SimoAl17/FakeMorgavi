@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital@1&family=Raleway:ital@0;1&display=swap');
+
+.logo{
+    margin-top: 80px;
+    margin-left: 47%;
+}
+
+.nav-menu{
+    margin-top: 50px;
+    margin-left: 28%;
+}
+
+.nav-link{
+    font-family: 'Raleway', sans-serif;
+    font-size: 13px;
+    color: #515151;
+    text-decoration: none;
+    padding-right: 80px;
+}
+
+.title{
+    font-family: 'Playfair Display', serif;
+    font-weight: normal;
+    font-size: 28px;
+    color: #333;
+    padding: 50px;
+    text-align: center;
+    word-spacing: 5px;
+}
+
+.description{
+    font-family: 'Raleway', sans-serif;
+    font-size: 15px;
+    line-height: 27px;
+    color: #515151;
+    text-align: center;
+    width: 39%;
+    margin-left: 30%;
+    word-spacing: 5px;
+}
+
+.slideshow{
+    margin-top: 100px;
+    margin-left: 22%;
+    margin-bottom: 90px;
+}
+
+.first{
+    margin-left: 20%;
+}
+
+.column{
+    float: left;
+    width: 370px;
+    margin-right: 20px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.footer{
+    clear: left;
+}
+
+.box{
+    outline: solid;
+    outline-color: #ddd3d3;
+    outline-width: 2px;
+    outline-offset: 20px;
+    width: 330px;
+    margin-top: 30px;
+    margin-bottom: 60px;
+    margin-left: 20px;
+    
+}
+
+.box h3{
+    font-size: 14px;
+    border-bottom: solid;
+    border-width: 2px;
+    line-height: 27px;
+}
+
+.box p{
+    font-family: 'Raleway', sans-serif;
+    color: #837d7d;
+    line-height: 27px;
+}
+
+.im-sedia{
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+.riga-vuota{
+    clear: both;
+    user-select: none;
+    margin-left: 15%;
+    width: 70%;
+}
+
+.footer-social{
+    float: left;
+    margin-left: 15%;
+}
+
+.footer-copy{
+    float: right;
+    margin-right: 40%;
+    font-family: 'Playfair Display', serif;
+    color: #837d7d;
+}
+
+.footer-copy a{
+    text-decoration: none;
+    color: aqua;
+}
